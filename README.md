@@ -3,7 +3,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](igorteixeiracs@gmail.com)
 
 
-![igorts2 GitHub stats](https://github-readme-stats.vercel.app/api?username=igorts2&theme=blue-green)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorts2&theme=blue-green">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorts2&theme=blue-green">
+</div>
+
 
 
 ## Tecnologias do meu dia a dia.
